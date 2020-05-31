@@ -1,0 +1,14 @@
+$containerMargin: 3rem;
+
+.buttons {
+  margin: $containerMargin - 1rem;
+}
+
+.buttons button {
+  margin: .5rem;
+}
+
+.container {
+  margin: $containerMargin;
+  width: 70%;
+}
